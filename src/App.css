@@ -2,8 +2,8 @@
 
 
 @theme {
-  --font-display: 'Inter, sans-serif';
+  --font-display: "Bebas Neue", sans-serif;
 
-  --color-regal-red: rgb(220, 40, 40); 
+  --color-regal-red: oklch(50.5% 0.213 27.518);
   --color-regal-dark: oklch(14.5% 0 0);
 } 
